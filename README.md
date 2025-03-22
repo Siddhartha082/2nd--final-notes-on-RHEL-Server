@@ -13,4 +13,10 @@
 ![image](https://github.com/user-attachments/assets/4fe4075c-6d0a-4b78-8ec8-20ddba6dd59a)
 
 
+# DNS
+![image](https://github.com/user-attachments/assets/9ef73c41-49e5-48e5-b644-f6c0e8eece7a)
 
+
+# DHCP
+
+![image](https://github.com/user-attachments/assets/d5bb8f1b-cc77-4d5f-983f-a237a8745000)
