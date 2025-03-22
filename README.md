@@ -17,6 +17,3 @@
 ![image](https://github.com/user-attachments/assets/9ef73c41-49e5-48e5-b644-f6c0e8eece7a)
 
 
-# DHCP
-
-![image](https://github.com/user-attachments/assets/d5bb8f1b-cc77-4d5f-983f-a237a8745000)
